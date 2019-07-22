@@ -1,0 +1,7 @@
+E:\Algo\Algo_CSharp\Algo\Algo\bin\Debug\Algo.exe.config
+E:\Algo\Algo_CSharp\Algo\Algo\bin\Debug\Algo.exe
+E:\Algo\Algo_CSharp\Algo\Algo\bin\Debug\Algo.pdb
+E:\Algo\Algo_CSharp\Algo\Algo\obj\Debug\Algo.csprojAssemblyReference.cache
+E:\Algo\Algo_CSharp\Algo\Algo\obj\Debug\Algo.csproj.CoreCompileInputs.cache
+E:\Algo\Algo_CSharp\Algo\Algo\obj\Debug\Algo.exe
+E:\Algo\Algo_CSharp\Algo\Algo\obj\Debug\Algo.pdb
